@@ -84,7 +84,7 @@ Move your script into your new bin directory and you're all set. Now you just ha
 
 and your script will run.
 
-**####WRITING AN HTML FILE WITHIN A SCRIPT**####
+####**WRITING AN HTML FILE WITHIN A SCRIPT**####
 
 In the following lessons, we will construct a useful application. This application will produce an HTML document that contains information about your system. I spent a lot of time thinking about how to teach shell programming, and the approach I have come up with is very different from most approaches that I have seen. Most favor a rather systematic treatment of the many features, and often presume experience with other programming languages. Although I do not assume that you already know how to program, I realize that many people today know how to write HTML, so our first program will make a web page. As we construct our script, we will discover step by step the tools needed to solve the problem at hand.
 
