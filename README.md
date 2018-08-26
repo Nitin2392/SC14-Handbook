@@ -29,7 +29,7 @@ Topic selection by volunteers:
 
 1. Mahesh Kumar - HTML, CSS, Introduction to Free Software Movement
 
-2. Nitin Srivatsa - Basic command line in Linux, 	circumventing_mass_surveillance, shell scripting
+2. Nitin Rangarajan - Basic command line in Linux, 	circumventing_mass_surveillance, shell scripting
 
 3. Rohit GS - Introduction to JavaScript, NodeJS
 
